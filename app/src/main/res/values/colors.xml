@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0097e6</color>
+    <color name="colorPrimaryDark">#28759A</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="yellow">#f1c40f</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#27AE60</color>
+    <color name="light_purple">#ded4dc</color>
+    <color name="light_green">#50d050</color>
+    <color name="dark_green">#008000</color>
+    <color name="login_color">#e6880e</color>
+    <color name="colorPrimaryB">#039BE5</color>
+    <color name="colorPrimaryDarkB">#0288D1</color>
+    <color name="colorAccentB">#FFA000</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="fade_white">#D8D0D0</color>
+    <color name="float_action_bar">#55efc4</color>
+
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437303951766",
+    "firebase_url": "https://sumotwo-5eabf.firebaseio.com",
+    "project_id": "sumotwo-5eabf",
+    "storage_bucket": "sumotwo-5eabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437303951766:android:e5fff6df57d0b22c309db7",
+        "android_client_info": {
+          "package_name": "com.one4all.sumotwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437303951766-1rbulccptrde3k6t788okpab1n5230s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.one4all.sumotwo",
+            "certificate_hash": "e0fd62f44cf8349bc615b9f67cc2d0e13defab97"
+          }
+        },
+        {
+          "client_id": "437303951766-8qiqddhtp4scl8hv2kmiaofdmbl1alat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdwqydcd2llH2ug46JV_IoWVS_pTmV0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437303951766-8qiqddhtp4scl8hv2kmiaofdmbl1alat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
